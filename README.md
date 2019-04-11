@@ -4,6 +4,8 @@ The project finds prime numbers by using several child processes and IPC mechani
 
 Usage: 
 
-```prime <PRIME_LIMIT> <NUMBER_OF_PROCESSES>```
+By using makefile call ```make```
 
-```mqprime <PRIME_LIMIT> <NUMBER_OF_PROCESSES>```
+```./prime <PRIME_LIMIT> <NUMBER_OF_PROCESSES>```
+
+```./mqprime <PRIME_LIMIT> <NUMBER_OF_PROCESSES>```
